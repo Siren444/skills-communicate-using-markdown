@@ -1,4 +1,6 @@
-<header>
+# Header One 
+## Header Two
+### Header Three <header>
 
 <!--
   <<< Author notes: Course header >>>
